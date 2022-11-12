@@ -6,7 +6,7 @@ import {
   SWAPI_PEOPLE,
   URL_IMG_PERSON,
   GUIDE_IMG_EXTENSION,
-} from "../constants/api";
+} from "@constants/api";
 
 //-----------------------------------------------
 // Получить ID страницы для персонажей
