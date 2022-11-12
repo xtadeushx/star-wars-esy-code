@@ -1,11 +1,11 @@
-import { BrowserRouter, Link, NavLink, Route, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
+
+import Header from "@components/Header";
 
 import routesConfig from "@routes/routesConfig";
 
-import Header from "@components/Header/Header";
-
 import styles from "./App.module.css";
-// import { getApiResources } from "../../utils/network";
+
 const App = () => {
   return (
     <div className={styles.wrapper}>

@@ -63,7 +63,7 @@ VARIABLES
     #281b2e,
     #2b2440
   );
-  /* --theme-neitral-bgimage: url(@static/bg.jpg); */
+  --theme-neitral-bgimage: url(@static/bg.jpg);
   --theme-default-bgimage: var(--theme-neitral-bgimage);
 }
 
